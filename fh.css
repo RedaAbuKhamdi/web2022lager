@@ -1,0 +1,43 @@
+.gallery{
+    border: 100px groove cornflowerblue;
+    width: 132px;
+    height: 150px;
+    float: left;
+    margin: 50px 0 0 0 ;
+    background-image: url(ocr.jfif);
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.zxc{
+    border: 100px groove red;
+    width: 132px;
+    height: 150px;
+    float: left;
+    margin: 50px 0 0 0 ;
+    background-image: url(tyr.jfif);
+    background-size:150px 150px ;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.asd{border: 100px groove gold;
+    width: 132px;
+    height: 150px;
+    float: left;
+    margin: 50px 0 0 0 ;
+    background-image: url(frd.jfif);
+    background-size:150px 150px;
+    background-position: left;
+}
+.vcb{border: 100px groove chartreuse;
+    width: 132px;
+    height: 150px;
+    float: left;
+    margin: 50px 0 0 0 ;
+    background-image: url(hyij.jfif);
+    background-size: 150px 150px;
+    background-position: left;
+}
+body{
+    background-image: url(ghy.jfif);
+}

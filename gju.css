@@ -1,0 +1,50 @@
+.uio{
+    border: 10px groove red;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 50px 0 0 0 ;
+    background-image: url(sf.jfif);
+    background-size: 200px 200px;
+}
+body{
+    background-image: url(hgh.jfif);
+    background-size: 1900px 1900px;
+    background-position: left;
+}
+.pol{border: 10px groove black;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 100px 0 0 0 ;
+    background-image: url(bgb.jfif);
+    background-size:  400px 200px; ;
+}
+.yui{ border: 10px groove red;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 150px 0 0 0;
+    background-image: url(gfuu.jfif);
+    background-size: 200px 200px;
+}
+.weq{border: 10px groove black;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 200px 0 0 0;
+    background-image: url(nmb.jfif);
+    background-size: 200px 200px;
+}
+.vcv{border: 10px groove red;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 250px 0 0 0;
+    background-image: url(gfh.jfif);
+    background-size: 200px 200px;
+}
+h1{color: red;
+
+}
+
