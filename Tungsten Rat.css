@@ -1,0 +1,114 @@
+.chibi{
+    border: 50px groove rgb(118, 154, 255) ;  
+ padding: 200px ;
+ height: 100px;
+ width: 150px; 
+ float: left;
+ margin: 100px ;
+ background-image:  linear-gradient(60deg, red, rgb(255, 103, 103) );
+ background-image: url(https://tenor.com/view/gawr-gura-gura-guralfr-lfrhahaha-gif-18928398.gif) ;
+ background-size: 650px 500px ;
+}
+
+
+.sora{ border: 50px groove rgb(255, 145, 228) ;  
+    padding: 200px ;
+    height: 100px;
+    width: 150px; 
+    float: left;
+    margin: 100px ;
+    background-image:  linear-gradient(60deg, cornflowerblue, lightblue );
+background-image: url(https://tenor.com/view/mousey-ironmouse-ironmouseparty-vibes-sway-gif-21612034.gif);
+background-size: 650px 500px ;
+background-repeat: no-repeat;
+}
+
+.rock{ border: 50px groove rgb(219, 209, 217) ;  
+    padding: 200px ;
+    height: 100px;
+    width: 150px; 
+    float: left;
+    margin: 100px ;
+    background-image:  linear-gradient(60deg, cornflowerblue, lightblue );
+background-image: url(https://tenor.com/view/veibae-gif-22580829.gif);
+background-size: 650px 500px ;
+background-repeat: no-repeat;
+}
+
+.zord{ border: 50px groove rgb(180, 37, 37) ;  
+    padding: 200px ;
+    height: 100px;
+    width: 150px; 
+    float: left;
+    margin: 100px ;
+    background-image:  linear-gradient(60deg, cornflowerblue, lightblue );
+background-image: url(https://tenor.com/view/zentreya-vshojo-vtuber-pop-eyes-closed-gif-20442310.gif);
+background-size: 650px 500px ;
+background-repeat: no-repeat;
+}
+
+.boba{ border: 50px groove rgb(255, 145, 228) ;  
+    padding: 200px ;
+    height: 100px;
+    width: 150px; 
+    float: left;
+    margin: 100px ;
+    background-image:  linear-gradient(60deg, cornflowerblue, lightblue );
+background-image: url(https://tenor.com/view/nyanners-peek-boo-cute-christmas-gif-19348434.gif);
+background-size: 650px 500px ;
+background-repeat: no-repeat;
+display: block;
+}
+
+.booba{ border: 50px groove rgb(255, 246, 162) ;  
+    padding: 200px ;
+    height: 100px;
+    width: 150px; 
+    float: left;
+    margin: 100px ;
+    background-image:  linear-gradient(60deg, cornflowerblue, lightblue );
+background-image: url(https://tenor.com/view/amelia-watson-ame-hololive-hololive-english-hololive-en-gif-21789290.gif);
+background-size: 650px 500px ;
+background-repeat: no-repeat;
+}
+
+.kaze{ border: 50px groove rgb(255, 255, 255) ;  
+    padding: 200px ;
+    height: 100px;
+    width: 150px; 
+    float: left;
+    margin: 100px ;
+    background-image:  linear-gradient(60deg, cornflowerblue, lightblue );
+background-image: url(https://tenor.com/view/fubuki-confused-hololive-gif-18015941.gif);
+background-size: 650px 500px ;
+background-repeat: no-repeat;
+}
+
+.nobu{ border: 50px groove rgb(253, 255, 232) ;  
+    padding: 200px ;
+    height: 100px;
+    width: 150px; 
+    float: left;
+    margin: 100px ;
+    background-image:  linear-gradient(60deg, cornflowerblue, lightblue );
+background-image: url(https://tenor.com/view/shishiro-botan-shishiro-botan-hololive-vtuber-gif-24189662.gif);
+background-size: 650px 500px ;
+background-repeat: no-repeat;
+}
+
+.fuji{ border: 50px groove rgb(237, 255, 155) ;  
+    padding: 200px ;
+    height: 100px;
+    width: 150px; 
+    float: left;
+    margin: 100px ;
+    background-image:  linear-gradient(60deg, cornflowerblue, lightblue );
+background-image: url(https://tenor.com/view/watame-hololive-smirk-watame-smirk-gif-18313677.gif);
+background-size: 650px 500px ;
+background-repeat: no-repeat;
+}
+body{background-image: url(https://previews.123rf.com/images/mtmmarek/mtmmarek1412/mtmmarek141200076/34738412-.jpg);}
+h1{color: rgb(188, 117, 255);}
+
+
+
